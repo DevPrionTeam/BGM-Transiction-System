@@ -4,4 +4,5 @@ This is a very simple way to do transitions between BGMs in Game Maker Studio 1.
 The engine comes with a basic platformer engine amde by me and a pixel perfect collision checking.
 
 Fell free to download the engine on the Release Section.
-you're welcomed to change something and contribute with this if you want !
+ 
+You're welcomed to change something and contribute with this if you want !
